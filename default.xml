@@ -20,5 +20,6 @@
            sync-j="4" />
 
 <project path="arm-eabi-4.9" name="gcc_4.9" remote="bitbucket" revision="master" />
+<project path="arm-eabi-4.10" name="gcc_4.10" remote="bitbucket" revision="master" />
 
 </manifest>
